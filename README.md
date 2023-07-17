@@ -1,4 +1,4 @@
-![fondo](file:///C:/Users/Karla/Desktop/README/fondo.png)
+![fondo](./fondo.png)
 
 # Hi there 👋 I´m Karla!
 
