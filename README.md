@@ -1,4 +1,4 @@
-![fondo](../fondo.png)
+![fondo](./fondo.png)
 
 # Hi there 👋 I´m Karla!
 
