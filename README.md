@@ -1,6 +1,6 @@
 ![fondo](./fondos.png)
 
-# Hi there 👋 I´m Karla!
+<h1 align="center">Hi 👋, I'm Karla</h1>
 
 **I am a woman in constant evolution and adaptability!**
 
@@ -18,14 +18,14 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 
 ## Projects
-- **BurgerQueen** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-burger-queen-api-client?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+- **BurgerQueen** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-burger-queen-api-client?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
-- **MdLinks** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-md-links?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+- **MdLinks** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-md-links?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
-- **SocialNetwork** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-social-network)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-social-network)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-social-network?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+- **SocialNetwork** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-social-network)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-social-network)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-social-network?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
-- **DataLovers** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-data-lovers)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-data-lovers)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-data-lovers?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+- **DataLovers** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-data-lovers)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-data-lovers)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-data-lovers?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
-- **CardValidation** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-card-validation)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-card-validation)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-card-validation?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+- **CardValidation** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-card-validation)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-card-validation)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-card-validation?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
-- **Quiz** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/Quiz)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/Quiz)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/Quiz?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+- **Quiz** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/Quiz)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/Quiz)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/Quiz?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
