@@ -12,9 +12,9 @@ using the SCRUM methodology, to create innovative digital solutions that can tra
 environment. This keeps me motivated to continue learning and improving my skills.
 
 ## Projects
-BurgerQueen [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev)
-MdLinks [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev)
-SocialNetwork [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-social-network)](https://badges.pufler.dev)
-DataLovers [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-data-lovers)](https://badges.pufler.dev)
-CardValidation [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-card-validation)](https://badges.pufler.dev)
-Quiz [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/Quiz)](https://badges.pufler.dev)
+- **BurgerQueen** [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev)
+- **MdLinks** [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev)
+- **SocialNetwork** [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-social-network)](https://badges.pufler.dev)
+- **DataLovers** [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-data-lovers)](https://badges.pufler.dev)
+- **CardValidation** [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-card-validation)](https://badges.pufler.dev)
+- **Quiz** [![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/Quiz)](https://badges.pufler.dev)
