@@ -11,4 +11,4 @@ opened my eyes to the power of programming. Currently, I am enhancing my immersi
 using the SCRUM methodology, to create innovative digital solutions that can transform the world and benefit society and the
 environment. This keeps me motivated to continue learning and improving my skills.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=KarlaMacedo.&left_color=green&right_color=red)
+[![Visits Badge](https://badges.pufler.dev/visits/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev)
