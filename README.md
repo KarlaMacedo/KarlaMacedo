@@ -22,7 +22,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 - ⚡ Fun fact **I'm a biologist by profession and I love animals, but I've discovered that I have a great passion for web development**
   
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karlamacedo &title=PullRequest,Issues,Reviews,Commits,Repositories,Followers" alt="karlamacedo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karlamacedo&title=PullRequest,Issues,Reviews,Commits,Repositories,Followers" alt="karlamacedo" /></a> </p>
 
 
 
