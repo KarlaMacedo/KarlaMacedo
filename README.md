@@ -24,7 +24,10 @@ environment. This keeps me motivated to continue learning and improving my skill
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karlamacedo&title=PullRequest,Issues,Reviews,Commits,Repositories,Followers" alt="karlamacedo" /></a> </p>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karlapaolamacedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karlapaolamacedo/" height="30" width="40" /></a>
+</p>
 
 ## Projects
 - **BurgerQueen** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-burger-queen-api-client?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
