@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Karla</h1>
 <h3 align="center">I am a woman in constant evolution and adaptability!</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karlamacedo&label=Profile%20views&color=0e75b6&style=flat" alt="karlamacedo" /> </p>
 
 I consider that my curiosity, love for mental challenges, and passion for nature drive me to pursue continuous learning.
 That's why I studied a Bachelor's degree in Biology, allowing me to develop my logical and systematic thinking in research
@@ -10,9 +11,18 @@ opened my eyes to the power of programming. Currently, I am enhancing my immersi
 using the SCRUM methodology, to create innovative digital solutions that can transform the world and benefit society and the
 environment. This keeps me motivated to continue learning and improving my skills.
 
-[![Repos Badge](https://badges.pufler.dev/repos/KarlaMacedo)](https://badges.pufler.dev)
+- 🔭 I’m currently working on [Burger Queen](https://github.com/KarlaMacedo/DEV007-burger-queen-api-client)
 
-[![Commits Badge](https://badges.pufler.dev/commits/weekly/KarlaMacedo)](https://badges.pufler.dev)
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/KarlaMacedo?tab=repositories](https://github.com/KarlaMacedo?tab=repositories)
+
+- 📫 How to reach me **karlapaolamacedo@gmail.com**
+
+- ⚡ Fun fact **I'm a biologist by profession and I love animals, but I've discovered that I have a great passion for web development**
+  
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karlamacedo" alt="karlamacedo" /></a> </p>
 
 
 
