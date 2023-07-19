@@ -11,7 +11,7 @@ opened my eyes to the power of programming. Currently, I am enhancing my immersi
 using the SCRUM methodology, to create innovative digital solutions that can transform the world and benefit society and the
 environment. This keeps me motivated to continue learning and improving my skills.
 
-- 🔭 I’m currently working on [Burger Queen](https://github.com/KarlaMacedo/DEV007-burger-queen-api-client)  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In+progress+...)](https://git.io/typing-svg)
+- 🔭 I’m currently working on [Burger Queen](https://github.com/KarlaMacedo/DEV007-burger-queen-api-client) 
 
 - 🌱 I’m currently learning **React** <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
@@ -34,6 +34,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="canva" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="40" height="40"/> </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/qgis/qgis-official.svg" alt="QGis" width="40" height="40"/> </a> </p>
 
 ## Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+project+is+in+progress+...)](https://git.io/typing-svg)
 - **BurgerQueen** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-burger-queen-api-client?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
 - **MdLinks** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-md-links?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
