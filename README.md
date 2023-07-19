@@ -11,7 +11,7 @@ opened my eyes to the power of programming. Currently, I am enhancing my immersi
 using the SCRUM methodology, to create innovative digital solutions that can transform the world and benefit society and the
 environment. This keeps me motivated to continue learning and improving my skills.
 
-- 🔭 I’m currently working on [Burger Queen](https://github.com/KarlaMacedo/DEV007-burger-queen-api-client)
+- 🔭 I’m currently working on [Burger Queen](https://github.com/KarlaMacedo/DEV007-burger-queen-api-client)  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In+progress+...)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **React** <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
