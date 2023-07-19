@@ -46,7 +46,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 - **Quiz** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/Quiz)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/Quiz)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/Quiz?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlaMacedo\&rank_icon=github\&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlaMacedo\&rank_icon=github\&include_all_commits=true&show_icons=true&locale=en)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karlamacedo&show_icons=true&locale=en" alt="karlamacedo" /></p>
 <br>
