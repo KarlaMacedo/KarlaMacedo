@@ -47,4 +47,5 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karlamacedo&show_icons=true&locale=en&layout=compact" alt="karlamacedo" /></p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlaMacedo\&rank_icon=github\&include_all_commits=true)
