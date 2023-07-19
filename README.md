@@ -1,9 +1,7 @@
 ![fondo](./fondos.png)
 
 <h1 align="center">Hi 👋, I'm Karla</h1>
-<h3 align="center">I am a woman in constant evolution and adaptability!</h>
-
-**I am a woman in constant evolution and adaptability!**
+<h3 align="center">I am a woman in constant evolution and adaptability!</h3>
 
 I consider that my curiosity, love for mental challenges, and passion for nature drive me to pursue continuous learning.
 That's why I studied a Bachelor's degree in Biology, allowing me to develop my logical and systematic thinking in research
