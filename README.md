@@ -41,7 +41,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Platforms
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" width="70" height="40"/> </a> <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.replit.com/images/logo.png" alt="replit" width="70" height="40"/> </a> <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://spiralking.com/wp-content/uploads/2019/04/code4.png" alt="codePen" width="50" height="30"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" width="70" height="40"/> </a> <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.replit.com/images/logo.png" alt="replit" width="70" height="40"/> </a> <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://spiralking.com/wp-content/uploads/2019/04/code4.png" alt="codePen" width="50" height="40"/> </a>
 
 ### Libraries
 
