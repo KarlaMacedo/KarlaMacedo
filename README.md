@@ -41,7 +41,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Platforms
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" width="70" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" width="70" height="40"/> </a> <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.replit.com/images/logo.png" alt="replit" width="70" height="40"/> </a> <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454948/codepen-wordmark-display-inside-black@10x_16397a56ea/codepen-wordmark-display-inside-black@10x_16397a56ea.png?_i=AA" alt="codePen" width="70" height="40"/> </a>
 
 ### Libraries
 
@@ -49,7 +49,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Softwares
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/qgis/qgis-official.svg" alt="QGis" width="40" height="40"/> </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/640px-ArcGIS_logo.png" alt="QGis" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/qgis/qgis-official.svg" alt="QGis" width="40" height="40"/> </a> <a href="https://www.arcgis.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/640px-ArcGIS_logo.png" alt="ArcGIS" width="40" height="40"/> </a> <a href="https://digikam.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Digikam_Oxygen.svg/1200px-Digikam_Oxygen.svg.png" alt="digiKam" width="40" height="40"/> </a>
 
 ### Organization
 
