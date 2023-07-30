@@ -39,13 +39,13 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 
-### Libraries
-
-
-
 ### Platforms
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" width="70" height="40"/> </a>
+
+### Libraries
+
+
 
 ### Softwares
 
@@ -53,7 +53,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Organization
 
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="70" height="40"/> </a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="70" height="40"/> </a> <a href="https://asana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" alt="asana" width="70" height="40"/> </a>
 
 ### Design
 
