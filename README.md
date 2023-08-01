@@ -45,7 +45,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Libraries / Packages / Modules
 
-![CHALK](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![CHALK](https://img.shields.io/badge/javaaaa-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PATH](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 ![FS](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
 ![AXIOS](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
