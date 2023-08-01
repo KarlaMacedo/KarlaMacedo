@@ -45,7 +45,8 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Libraries
 
-
+![Java](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-316192.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Softwares
 
