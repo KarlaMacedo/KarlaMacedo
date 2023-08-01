@@ -45,14 +45,14 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Libraries / Packages / Modules
 
-![CHALK](https://img.shields.io/badge/javaaaa-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
-![PATH](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
-![FS](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
-![AXIOS](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
-![JSDOM](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
-![REACT DOM](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
-![REACT ROUTER](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![CHALK](https://img.shields.io/badge/chalk-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![PATH](https://img.shields.io/badge/path-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![FS](https://img.shields.io/badge/fs-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![AXIOS](https://img.shields.io/badge/axios-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![JSDOM](https://img.shields.io/badge/jsdom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/bootstrap-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![REACT DOM](https://img.shields.io/badge/react-dom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![REACT ROUTER](https://img.shields.io/badge/react-router-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Softwares
 
