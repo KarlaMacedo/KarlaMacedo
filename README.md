@@ -41,12 +41,18 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Platforms
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" width="70" height="40"/> </a> <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.replit.com/images/logo.png" alt="replit" width="70" height="40"/> </a> <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://spiralking.com/wp-content/uploads/2019/04/code4.png" alt="codePen" width="50" height="40"/> </a> <a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.3693218494.0207/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="codewars" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circleci" width="70" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*Ij4wyJ4yMq_0Vm_U.png" alt="Postman" width="70" height="40"/> </a> <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://software.com.co/images/product/23922/1444532022091463221315999a7.png" alt="Vercel" width="70" height="40"/> </a> <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://blog.replit.com/images/logo.png" alt="replit" width="70" height="40"/> </a> <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://spiralking.com/wp-content/uploads/2019/04/code4.png" alt="codePen" width="50" height="40"/> </a> <a href="https://www.codewars.com/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.3693218494.0207/pp,840x830-pad,1000x1000,f8f8f8.jpg" alt="codewars" width="40" height="40"/> </a>
 
-### Libraries
+### Libraries / Packages / Modules
 
-![Java](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/java-316192.svg?style=for-the-badge&logo=java&logoColor=white)
+![CHALK](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![PATH](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![FS](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![AXIOS](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![JSDOM](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![REACT DOM](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![REACT ROUTER](https://img.shields.io/badge/java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Softwares
 
@@ -62,7 +68,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Others
 
-<a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="70" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="40"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npmjs" width="40" height="40"/> </a> <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="eslint" width="70" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+<a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="70" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="40"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npmjs" width="50" height="40"/> </a> <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="eslint" width="70" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://marked.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19886934?s=280&v=4" alt="marked" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://es.vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> </a> <a href="https://developers.google.com/maps/" target="_blank" rel="noreferrer"> <img src="https://developers.google.com/static/maps/images/google-maps-platform-1200x675.png?hl=es-419" alt="API Google Maps" width="40" height="40"/> </a>
 
 
 ## Projects
