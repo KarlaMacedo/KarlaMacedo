@@ -72,7 +72,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 
 ## Projects
-- **BurgerQueen** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-burger-queen-api-client?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Under+development+...)](https://git.io/typing-svg)
+- **BurgerQueen** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-burger-queen-api-client?size=30&padding=5&perRow=10&bots=false)](https://badges.pufler.dev)  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Under+development+...)](https://git.io/typing-svg)
   
 - **MdLinks** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-md-links?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
