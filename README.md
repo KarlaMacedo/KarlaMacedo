@@ -37,7 +37,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Frameworks
 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="75" height="40"/> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 
 ### Platforms
 
@@ -61,6 +61,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 ### Libraries / Packages / Modules
 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="75" height="40"/> </a>
 ![CHALK](https://img.shields.io/badge/chalk-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PATH](https://img.shields.io/badge/path-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 ![FS](https://img.shields.io/badge/fs-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
