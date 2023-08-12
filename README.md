@@ -67,8 +67,9 @@ environment. This keeps me motivated to continue learning and improving my skill
 ![FS](https://img.shields.io/badge/fs-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
 ![AXIOS](https://img.shields.io/badge/axios-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JSDOM](https://img.shields.io/badge/jsdom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
-![REACT DOM](https://img.shields.io/badge/react.dom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
 ![REACT ROUTER](https://img.shields.io/badge/react.router-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![REACT DOM](https://img.shields.io/badge/react.dom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 ## Projects
