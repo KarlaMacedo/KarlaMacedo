@@ -11,7 +11,7 @@ opened my eyes to the power of programming. Currently, I am enhancing my immersi
 using the SCRUM methodology, to create innovative digital solutions that can transform the world and benefit society and the
 environment. This keeps me motivated to continue learning and improving my skills.
 
-- 🔭 I’m currently working on [Burger Queen API](https://github.com/KarlaMacedo/Burger-queen-api)  & [Burger Queen API](https://github.com/KarlaMacedo/Burger-queen-api-client)
+- 🔭 I’m currently working on [Burger Queen API](https://github.com/KarlaMacedo/Burger-queen-api)  & [Burger Queen API Client](https://github.com/KarlaMacedo/Burger-queen-api-client)
 
 - 🌱 I’m currently learning **Backend** 
 
