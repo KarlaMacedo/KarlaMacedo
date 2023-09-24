@@ -11,7 +11,7 @@ opened my eyes to the power of programming. Currently, I am enhancing my immersi
 using the SCRUM methodology, to create innovative digital solutions that can transform the world and benefit society and the
 environment. This keeps me motivated to continue learning and improving my skills.
 
-- 🔭 I’m currently working on [Burger Queen API](https://github.com/sara-rioseco/Burger-queen-api) 
+- 🔭 I’m currently working on [Burger Queen API](https://github.com/KarlaMacedo/Burger-queen-api)  & [Burger Queen API](https://github.com/KarlaMacedo/Burger-queen-api-client)
 
 - 🌱 I’m currently learning **Backend** 
 
@@ -75,7 +75,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 ## Projects
 - **BurgerQueen API** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/Burger-queen-api)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/Burger-queen-api)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/Burger-queen-api?size=30&padding=5&perRow=10&bots=false)](https://badges.pufler.dev)  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Under+development+...)](https://git.io/typing-svg)
 
-- **BurgerQueen API Client** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-burger-queen-api-client?size=30&padding=5&perRow=10&bots=false)](https://badges.pufler.dev)
+- **BurgerQueen API Client** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/Burger-queen-api-client)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/Burger-queen-api-client)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/Burger-queen-api-client?size=30&padding=5&perRow=10&bots=false)](https://badges.pufler.dev)
   
 - **MdLinks** [![Visits Badge](https://badges.pufler.dev/created/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/updated/KarlaMacedo/DEV007-md-links)](https://badges.pufler.dev) [![Contributors Display](https://badges.pufler.dev/contributors/KarlaMacedo/DEV007-md-links?size=30&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
   
