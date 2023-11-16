@@ -13,7 +13,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 - 🔭 I’m currently working on [Burger Queen API](https://github.com/KarlaMacedo/Burger-queen-api)  & [Burger Queen API Client](https://github.com/KarlaMacedo/Burger-queen-api-client)
 
-- 🌱 I’m currently learning **MDBootstrap, IA, MySQL** 
+- 🌱 I’m currently learning **IA** <a href="https://flowiseai.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D5612AQHZStxQGhMJMQ/article-cover_image-shrink_600_2000/0/1693637318512?e=2147483647&v=beta&t=Wsb_o0RUc4W-bPbiIve-ekn2o79A2pM_VJkQXGWCuTE" alt="r" width="40" height="40"/> </a> <a href="https://www.ibm.com/mx-es/products/watson-assistant" target="_blank" rel="noreferrer"> <img src="https://cdn.trendhunterstatic.com/thumbs/509/watson-assistant-1.jpeg?auto=webp" alt="r" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="r" width="40" height="40"/> </a> <a href="https://mdbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/233-2335742_logo-mdbootstrap.png" alt="r" width="40" height="40"/> </a> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarlaMacedo?tab=repositories](https://github.com/KarlaMacedo?tab=repositories)
 
