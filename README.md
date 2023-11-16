@@ -13,7 +13,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 
 - 🔭 I’m currently working on [Burger Queen API](https://github.com/KarlaMacedo/Burger-queen-api)  & [Burger Queen API Client](https://github.com/KarlaMacedo/Burger-queen-api-client)
 
-- 🌱 I’m currently learning **IA** <a href="https://flowiseai.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D5612AQHZStxQGhMJMQ/article-cover_image-shrink_600_2000/0/1693637318512?e=2147483647&v=beta&t=Wsb_o0RUc4W-bPbiIve-ekn2o79A2pM_VJkQXGWCuTE" alt="flowise" width="110" height="50"/> </a> <a href="https://www.ibm.com/mx-es/products/watson-assistant" target="_blank" rel="noreferrer"> <img src="https://cdn.trendhunterstatic.com/thumbs/509/watson-assistant-1.jpeg?auto=webp" alt="watson assistant" width="110" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="50"/> </a> <a href="https://mdbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/233-2335742_logo-mdbootstrap.png" alt="mdb" width="40" height="40"/> </a> 
+- 🌱 I’m currently learning **IA** <a href="https://flowiseai.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D5612AQHZStxQGhMJMQ/article-cover_image-shrink_600_2000/0/1693637318512?e=2147483647&v=beta&t=Wsb_o0RUc4W-bPbiIve-ekn2o79A2pM_VJkQXGWCuTE" alt="flowise" width="110" height="50"/> </a> <a href="https://www.ibm.com/mx-es/products/watson-assistant" target="_blank" rel="noreferrer"> <img src="https://cdn.trendhunterstatic.com/thumbs/509/watson-assistant-1.jpeg?auto=webp" alt="watson assistant" width="110" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="50"/> </a> <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/handlebarsjs_logo_icon_169054.png" alt="mdb" width="60" height="40"/> </a>  <a href="https://mdbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngkit.com/png/full/233-2335742_logo-mdbootstrap.png" alt="mdb" width="60" height="40"/> </a> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarlaMacedo?tab=repositories](https://github.com/KarlaMacedo?tab=repositories)
 
@@ -70,6 +70,7 @@ environment. This keeps me motivated to continue learning and improving my skill
 ![JSDOM](https://img.shields.io/badge/jsdom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
 ![REACT ROUTER](https://img.shields.io/badge/react.router-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 ![REACT DOM](https://img.shields.io/badge/react.dom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![MATERIAL UI](https://img.shields.io/badge/mui-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 
