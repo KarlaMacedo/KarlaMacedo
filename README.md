@@ -1,4 +1,4 @@
-![fondo](./fondo1.png)
+![fondo](./fondo2.png)
 
 <h1 align="center">Hi 👋, I'm Karla</h1>
 <h3 align="center">I am a woman in constant evolution and adaptability!</h3>
